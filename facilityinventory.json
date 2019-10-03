@@ -1,0 +1,397 @@
+{
+  "inventories": [
+    {
+      "name": "Seattle, WA",
+      "items": [
+        {
+          "id": "ABC123",
+          "quantity": 45
+        },
+        {
+          "id": "JBL3100",
+          "quantity": 52
+        },
+        {
+          "id": "PL132-C",
+          "quantity": 4
+        },
+        {
+          "id": "PU238",
+          "quantity": 60
+        }
+      ]
+    },
+    {
+      "name": "San Francisco, CA",
+      "items": [
+        {
+          "id": "RL123A",
+          "quantity": 40
+        },
+        {
+          "id": "XLK200B",
+          "quantity": 8
+        },
+        {
+          "id": "SR71-D",
+          "quantity": 81
+        },
+        {
+          "id": "CT1928",
+          "quantity": 46
+        }
+      ]
+    },
+    {
+      "name": "Los Angeles, CA",
+      "items": [
+        {
+          "id": "RX100-3",
+          "quantity": 57
+        },
+        {
+          "id": "JBL3100",
+          "quantity": 60
+        },
+        {
+          "id": "E241i",
+          "quantity": 44
+        },
+        {
+          "id": "XTP202",
+          "quantity": 32
+        }
+      ]
+    },
+    {
+      "name": "Phoenix, AZ",
+      "items": [
+        {
+          "id": "RX100-3",
+          "quantity": 1
+        },
+        {
+          "id": "SR71-D",
+          "quantity": 5
+        },
+        {
+          "id": "SN-241-L",
+          "quantity": 2
+        },
+        {
+          "id": "ZTF109",
+          "quantity": 54
+        }
+      ]
+    },
+    {
+      "name": "Santa Fe, NM",
+      "items": [
+        {
+          "id": "ABC123",
+          "quantity": 80
+        },
+        {
+          "id": "RL123A",
+          "quantity": 110
+        },
+        {
+          "id": "RTF110",
+          "quantity": 100
+        }
+      ]
+    },
+    {
+      "name": "Denver, CO",
+      "items": [
+        {
+          "id": "RX100-3",
+          "quantity": 44
+        },
+        {
+          "id": "CR2032",
+          "quantity": 280
+        }
+      ]
+    },
+    {
+      "name": "Fargo, ND",
+      "items": [
+        {
+          "id": "ABC123",
+          "quantity": 25
+        },
+        {
+          "id": "JBL3100",
+          "quantity": 32
+        },
+        {
+          "id": "XLK200B",
+          "quantity": 82
+        }
+      ]
+    },
+    {
+      "name": "Austin, TX",
+      "items": [
+        {
+          "id": "RL123A",
+          "quantity": 66
+        },
+        {
+          "id": "RX100-3",
+          "quantity": 35
+        },
+        {
+          "id": "SN-241-L",
+          "quantity": 35
+        }
+      ]
+    },
+    {
+      "name": "St. Louis, MO",
+      "items": [
+        {
+          "id": "ABC123",
+          "quantity": 70
+        },
+        {
+          "id": "SR71-D",
+          "quantity": 45
+        },
+        {
+          "id": "PU238",
+          "quantity": 82
+        }
+      ]
+    },
+    {
+      "name": "Chicago, IL",
+      "items": [
+        {
+          "id": "ABC123",
+          "quantity": 60
+        },
+        {
+          "id": "E241i",
+          "quantity": 64
+        },
+        {
+          "id": "CT1928",
+          "quantity": 20
+        },
+        {
+          "id": "RTF110",
+          "quantity": 110
+        },
+        {
+          "id": "XTP202",
+          "quantity": 20
+        }
+      ]
+    },
+    {
+      "name": "New Orleans, LA",
+      "items": [
+        {
+          "id": "MM35P",
+          "quantity": 100
+        },
+        {
+          "id": "PU238",
+          "quantity": 49
+        },
+        {
+          "id": "ZTF109",
+          "quantity": 120
+        }
+      ]
+    },
+    {
+      "name": "Nashville, TN",
+      "items": [
+        {
+          "id": "RX100-3",
+          "quantity": 78
+        },
+        {
+          "id": "XLK200B",
+          "quantity": 28
+        },
+        {
+          "id": "CR2032",
+          "quantity": 366
+        },
+        {
+          "id": "SN-241-L",
+          "quantity": 16
+        }
+      ]
+    },
+    {
+      "name": "Miami, FL",
+      "items": [
+        {
+          "id": "MM35P",
+          "quantity": 16
+        },
+        {
+          "id": "JBL3100",
+          "quantity": 44
+        },
+        {
+          "id": "SR71-D",
+          "quantity": 15
+        },
+        {
+          "id": "SN-241-L",
+          "quantity": 28
+        },
+        {
+          "id": "XTP202",
+          "quantity": 88
+        }
+      ]
+    },
+    {
+      "name": "Atlanta, GA",
+      "items": [
+        {
+          "id": "RX100-3",
+          "quantity": 90
+        },
+        {
+          "id": "E24Li",
+          "quantity": 32
+        },
+        {
+          "id": "PU238",
+          "quantity": 120
+        }
+      ]
+    },
+    {
+      "name": "Norfolk, VA",
+      "items": [
+        {
+          "id": "MM35P",
+          "quantity": 66
+        },
+        {
+          "id": "RL123A",
+          "quantity": 50
+        },
+        {
+          "id": "XLK200B",
+          "quantity": 14
+        }
+      ]
+    },
+    {
+      "name": "New York City, NY",
+      "items": [
+        {
+          "id": "RL123A",
+          "quantity": 12
+        },
+        {
+          "id": "CR2032",
+          "quantity": 132
+        },
+        {
+          "id": "E241i",
+          "quantity": 72
+        },
+        {
+          "id": "ZTF109",
+          "quantity": 28
+        }
+      ]
+    },
+    {
+      "name": "Detroit, MI",
+      "items": [
+        {
+          "id": "JBL3100",
+          "quantity": 117
+        },
+        {
+          "id": "SR71-D",
+          "quantity": 8
+        },
+        {
+          "id": "CT1928",
+          "quantity": 72
+        }
+      ]
+    },
+    {
+      "name": "Boston, MA",
+      "items": [
+        {
+          "id": "MM35P",
+          "quantity": 47
+        },
+        {
+          "id": "PL132-C",
+          "quantity": 3
+        },
+        {
+          "id": "CT1928",
+          "quantity": 65
+        }
+      ]
+    },
+    {
+      "name": "Casper, WY",
+      "items": [
+        {
+          "id": "ABC123",
+          "quantity": 32
+        },
+        {
+          "id": "PL132-C",
+          "quantity": 300
+        },
+        {
+          "id": "RX100-3",
+          "quantity": 165
+        }
+      ]
+    },
+    {
+      "name": "Normal, IL",
+      "items": [
+        {
+          "id": "MM35P",
+          "quantity": 217
+        },
+        {
+          "id": "RL123A",
+          "quantity": 33
+        },
+        {
+          "id": "XTP202",
+          "quantity": 10
+        }
+      ]
+    },
+    {
+      "name": "Cleveland, OH",
+      "items": [
+        {
+          "id": "SR71-D",
+          "quantity": 47
+        },
+        {
+          "id": "PCR2032",
+          "quantity": 13
+        },
+        {
+          "id": "CT1928",
+          "quantity": 75
+        }
+      ]
+    }
+  ]
+}

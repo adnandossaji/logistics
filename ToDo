@@ -1,0 +1,3 @@
+(-5) Your facility schedule is really only a mock-up of the data. Your facilities have no schedule. Your printfs method ceates 2 arraylists, fills them with day numbers and zeros, and prints them out. This is completely disjoint from your facilities.
+
+(-3.5) There is little error checking and handling (exception throwing/propagating) is present in your code - this leaves your implementation very brittle and subject to failures.

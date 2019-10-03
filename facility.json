@@ -1,0 +1,450 @@
+{
+  "facilities": [
+    {
+      "id": 0,
+      "name": "Seattle, WA",
+      "rate": 8,
+      "cost": 300,
+      "neighbors": [
+        {
+          "id": 6,
+          "name": "Fargo, ND",
+          "distance": 1426
+        },
+        {
+          "id": 1,
+          "name": "San Francisco, CA",
+          "distance": 808
+        },
+        {
+          "id": 18,
+          "name": "Casper, WY",
+          "distance": 545
+        }
+      ]
+    }, {
+      "id": 1,
+      "name": "San Francisco, CA",
+      "rate": 12,
+      "cost": 300,
+      "neighbors": [
+        {
+          "id": 5,
+          "name": "Denver, CO",
+          "distance": 1249
+        },
+        {
+          "id": 2,
+          "name": "Los Angeles, CA",
+          "distance": 382
+        },
+        {
+          "id": 0,
+          "name": "Seattle, WA",
+          "distance": 808
+        }
+      ]
+    }, {
+      "id": 2,
+      "name": "Los Angeles, CA",
+      "rate": 10,
+      "cost": 300,
+      "neighbors": [
+        {
+          "id": 3,
+          "name": "Phoenix, AZ",
+          "distance": 372
+        }, {
+          "id": 1,
+          "name": "San Francisco, CA",
+          "distance": 372
+        }
+      ]
+    }, {
+      "id": 3,
+      "name": "Phoenix, AZ",
+      "rate": 8,
+      "cost": 300,
+      "neighbors": [
+        {
+          "id": 4,
+          "name": "Santa Fe, NM",
+          "distance": 480
+        }
+      ]
+    }, {
+      "id": 4,
+      "name": "Santa Fe, NM",
+      "rate": 10,
+      "cost": 300,
+      "neighbors": [
+        {
+          "id": 3,
+          "name": "Phoenix, AZ",
+          "distance": 480
+        }, {
+          "id": 5,
+          "name": "Denver, CO",
+          "distance": 392
+        }, {
+          "id": 8,
+          "name": "St. Louis, MO",
+          "distance": 1032
+        }, {
+          "id": 7,
+          "name": "Austin, TX",
+          "distance": 688
+        }
+      ]
+    }, {
+      "id": 5,
+      "name": "Denver, CO",
+      "rate": 12,
+      "cost": 300,
+      "neighbors": [
+        {
+          "id": 1,
+          "name": "San Francisco, CA",
+          "distance": 1249
+        }, {
+          "id": 4,
+          "name": "Santa Fe, NM",
+          "distance": 392
+        }, {
+          "id": 6,
+          "name": "Fargo, ND",
+          "distance": 889
+        }, {
+          "id": 8,
+          "name": "St. Louis, MO",
+          "distance": 851
+        }
+      ]
+    }, {
+      "id": 6,
+      "name": "Fargo, ND",
+      "rate": 8,
+      "cost": 300,
+      "neighbors": [
+        {
+          "id": 0,
+          "name": "Seattle, WA",
+          "distance": 1426
+        }, {
+          "id": 5,
+          "name": "Denver, CO",
+          "distance": 889
+        }, {
+          "id": 9,
+          "name": "Chicago, IL",
+          "distance": 643
+        },
+        {
+          "id": 18,
+          "name": "Casper, WY",
+          "distance": 680
+        }
+      ]
+    }, {
+      "id": 7,
+      "name": "Austin, TX",
+      "rate": 10,
+      "cost": 300,
+      "neighbors": [
+        {
+          "id": 4,
+          "name": "Santa Fe, NM",
+          "distance": 688
+        }, {
+          "id": 8,
+          "name": "St. Louis, MO",
+          "distance": 825
+        }, {
+          "id": 10,
+          "name": "New Orleans, LA",
+          "distance": 512
+        }
+      ]
+    }, {
+      "id": 8,
+      "name": "St. Louis, MO",
+      "rate": 12,
+      "cost": 300,
+      "neighbors": [
+        {
+          "id": 5,
+          "name": "Denver, CO",
+          "distance": 851
+        }, {
+          "id": 4,
+          "name": "Santa Fe, NM",
+          "distance": 1032
+        }, {
+          "id": 7,
+          "name": "Austin, TX",
+          "distance": 825
+        }, {
+          "id": 9,
+          "name": "Chicago, IL",
+          "distance": 297
+        }, {
+          "id": 11,
+          "name": "Nashville, TN",
+          "distance": 309
+        },
+        {
+          "id": 19,
+          "name": "Normal, IL",
+          "distance": 130
+        }
+      ]
+    }, {
+      "id": 9,
+      "name": "Chicago, IL",
+      "rate": 10,
+      "cost": 300,
+      "neighbors": [
+        {
+          "id": 6,
+          "name": "Fargo, ND",
+          "distance": 643
+        }, {
+          "id": 16,
+          "name": "Detroit, MI",
+          "distance": 282
+        }, {
+          "id": 15,
+          "name": "New York City, NY",
+          "distance": 790
+        }, {
+          "id": 8,
+          "name": "St. Louis, MO",
+          "distance": 297
+        },
+        {
+          "id": 20,
+          "name": "Cleveland, OH",
+          "distance": 605
+        }
+      ]
+    }, {
+      "id": 10,
+      "name": "New Orleans, LA",
+      "rate": 10,
+      "cost": 300,
+      "neighbors": [
+        {
+          "id": 7,
+          "name": "Austin, TX",
+          "distance": 512
+        }, {
+          "id": 11,
+          "name": "Nashville, TN",
+          "distance": 532
+        }, {
+          "id": 13,
+          "name": "Atlanta, GA",
+          "distance": 532
+        }, {
+          "id": 12,
+          "name": "Miami, FL",
+          "distance": 864
+        }
+      ]
+    }, {
+      "id": 11,
+      "name": "Nashville, TN",
+      "rate": 8,
+      "cost": 300,
+      "neighbors": [
+        {
+          "id": 8,
+          "name": "St. Louis, MO",
+          "distance": 309
+        }, {
+          "id": 10,
+          "name": "New Orleans, LA",
+          "distance": 532
+        }, {
+          "id": 14,
+          "name": "Norfolk, VA",
+          "distance": 706
+        }
+      ]
+    }, {
+      "id": 12,
+      "name": "Miami, FL",
+      "rate": 12,
+      "cost": 300,
+      "neighbors": [
+        {
+          "id": 10,
+          "name": "New Orleans, LA",
+          "distance": 864
+        }, {
+          "id": 13,
+          "name": "Atlanta, GA",
+          "distance": 663
+        }
+      ]
+    }, {
+      "id": 13,
+      "name": "Atlanta, GA",
+      "rate": 10,
+      "cost": 300,
+      "neighbors": [
+        {
+          "id": 10,
+          "name": "New Orleans, LA",
+          "distance": 469
+        }, {
+          "id": 14,
+          "name": "Norfolk, VA",
+          "distance": 566
+        }, {
+          "id": 12,
+          "name": "Miami, FL",
+          "distance": 663
+        }
+      ]
+    }, {
+      "id": 14,
+      "name": "Norfolk, VA",
+      "rate": 10,
+      "cost": 300,
+      "neighbors": [
+        {
+          "id": 11,
+          "name": "Nashville, TN",
+          "distance": 704
+        }, {
+          "id": 15,
+          "name": "New York City, NY",
+          "distance": 363
+        }, {
+          "id": 13,
+          "name": "Atlanta",
+          "distance": 566
+        }
+      ]
+    }, {
+      "id": 15,
+      "name": "New York City, NY",
+      "rate": 14,
+      "cost": 300,
+      "neighbors": [
+        {
+          "id": 9,
+          "name": "Chicago, IL",
+          "distance": 790
+        }, {
+          "id": 16,
+          "name": "Detroit, MI",
+          "distance": 614
+        }, {
+          "id": 17,
+          "name": "Boston, MA",
+          "distance": 215
+        }, {
+          "id": 14,
+          "name": "Norfolk, VA",
+          "distance": 363
+        },
+        {
+          "id": 20,
+          "name": "Cleveland, OH",
+          "distance": 710
+        }
+      ]
+    }, {
+      "id": 16,
+      "name": "Detroit, MI",
+      "rate": 10,
+      "cost": 300,
+      "neighbors": [
+        {
+          "id": 9,
+          "name": "Chicago, IL",
+          "distance": 282
+        }, {
+          "id": 15,
+          "name": "New York City, NY",
+          "distance": 614
+        }, {
+          "id": 17,
+          "name": "Boston, MA",
+          "distance": 719
+        },
+        {
+          "id": 19,
+          "name": "Normal, IL",
+          "distance": 1010
+        }
+      ]
+    }, {
+      "id": 17,
+      "name": "Boston, MA",
+      "rate": 10,
+      "cost": 300,
+      "neighbors": [
+        {
+          "id": 16,
+          "name": "Detroit, MI",
+          "distance": 719
+        }, {
+          "id": 15,
+          "name": "Chicago, NY",
+          "distance": 215
+        }
+      ]
+    }, {
+      "id": 18,
+      "name": "Casper, WY",
+      "rate": 6,
+      "cost": 300,
+      "neighbors": [
+        {
+          "id": 0,
+          "name": "Seattle, Wa",
+          "distance": 545
+        }, {
+          "id": 6,
+          "name": "Fargo, ND",
+          "distance": 680
+        }
+      ]
+    }, {
+      "id": 19,
+      "name": "Normal, IL",
+      "rate": 10,
+      "cost": 300,
+      "neighbors": [
+        {
+          "id": 16,
+          "name": "Detroit, MI",
+          "distance": 1010
+        }, {
+          "id": 8,
+          "name": "St. Louis, MO",
+          "distance": 130
+        }
+      ]
+    }, {
+      "id": 20,
+      "name": "Cleveland, OH",
+      "rate": 10,
+      "cost": 300,
+      "neighbors": [
+        {
+          "id": 9,
+          "name": "Chicago, IL",
+          "distance": 605
+        }, {
+          "id": 15,
+          "name": "New York City, NY",
+          "distance": 710
+        }
+      ]
+    }
+  ]
+}
